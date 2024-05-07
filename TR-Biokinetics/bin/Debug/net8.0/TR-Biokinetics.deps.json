@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TR-Biokinetics/1.0.0": {
+        "runtime": {
+          "TR-Biokinetics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TR-Biokinetics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
