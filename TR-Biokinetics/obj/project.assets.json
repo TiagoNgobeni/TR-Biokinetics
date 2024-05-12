@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\ALDAH\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
+      "projectUniqueName": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
       "projectName": "TR-Biokinetics",
-      "projectPath": "G:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "G:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\obj\\",
+      "projectPath": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
+      "packagesPath": "C:\\Users\\ALDAH\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ALDAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

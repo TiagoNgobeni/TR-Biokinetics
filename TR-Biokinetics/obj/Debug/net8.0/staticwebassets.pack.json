@@ -1,24 +1,12 @@
 {
   "Files": [
     {
-      "Id": "g:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TR-Biokinetics.bundle.scp.css",
+      "Id": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TR-Biokinetics.bundle.scp.css",
       "PackagePath": "staticwebassets\\TR-Biokinetics.bundle.scp.css"
     },
     {
-      "Id": "g:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\app.css",
+      "Id": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
-    },
-    {
-      "Id": "g:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "g:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "g:\\Documents\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TR-Biokinetics.Microsoft.AspNetCore.StaticWebAssets.props",
