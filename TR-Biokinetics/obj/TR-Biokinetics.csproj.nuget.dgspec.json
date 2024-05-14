@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj": {}
+    "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj": {}
   },
   "projects": {
-    "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj": {
+    "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
+        "projectUniqueName": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
         "projectName": "TR-Biokinetics",
-        "projectPath": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
-        "packagesPath": "C:\\Users\\ALDAH\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\obj\\",
+        "projectPath": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\TR-Biokinetics.csproj",
+        "packagesPath": "C:\\Users\\Tiago.Ngobeni\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALDAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tiago.Ngobeni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

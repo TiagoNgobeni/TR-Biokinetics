@@ -1,12 +1,32 @@
 {
   "Files": [
     {
-      "Id": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TR-Biokinetics.bundle.scp.css",
+      "Id": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TR-Biokinetics.bundle.scp.css",
       "PackagePath": "staticwebassets\\TR-Biokinetics.bundle.scp.css"
     },
     {
-      "Id": "C:\\repos\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\app.css",
+      "Id": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\Revamped logo - T&R Biokinetics .png",
+      "PackagePath": "staticwebassets\\Revamped logo - T&R Biokinetics .png"
+    },
+    {
+      "Id": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\images\\Orthopaedi-injuries.jpg",
+      "PackagePath": "staticwebassets\\images\\Orthopaedi-injuries.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\images\\team1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\team2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Tiago.Ngobeni\\TR-Biokinetics\\TR-Biokinetics\\wwwroot\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\images\\team3.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TR-Biokinetics.Microsoft.AspNetCore.StaticWebAssets.props",

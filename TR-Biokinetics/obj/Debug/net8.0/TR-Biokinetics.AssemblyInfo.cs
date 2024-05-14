@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TR-Biokinetics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d6ee96b59ebd0191023c768f273d703d3562d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89f3ceec307b223658af73487c1c9eb18705f33f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TR-Biokinetics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TR-Biokinetics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
